@@ -1,0 +1,8 @@
+
+if (true)
+    console.log("vai executar");
+
+if (false)
+    console.log("não executar");
+
+console.log("fim");

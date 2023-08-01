@@ -1,0 +1,21 @@
+{
+  "name": "desafio_tivic",
+  "version": "1.0.0",
+  "description": "desafio_tivic.js",
+  "main": "desafio_for.js",
+  "scripts": {
+    "test": "const prompt = require('prompt sync')(); let a = prompt(\"enter a number\") consolo.log(a);"
+  },
+  "author": "VL",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "prompt-sync"
+  },
+  "keywords": [
+    "prompt-sync"
+  ],
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
